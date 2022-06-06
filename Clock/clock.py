@@ -13,7 +13,6 @@ def clock_set():
     clock_label.config(text=hours + ' : ' + minute + ' : ' + second)
     # 1000 = 1 sec
     clock_label.after(1000, clock_set)
-
 clock_label = Label(root, text='', font=('', 48), fg='red')
 clock_label.pack()
 
