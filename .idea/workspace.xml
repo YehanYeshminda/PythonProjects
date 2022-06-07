@@ -1,8 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89843c6f-db03-4fb2-8b5a-11832dcbb056" name="Changes" comment="&quot;Added some Projects&quot;">
+    <list default="true" id="89843c6f-db03-4fb2-8b5a-11832dcbb056" name="Changes" comment="&quot;Added the password manager project&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clock/clock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HangMan/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HangMan/.idea/HangMan.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HangMan/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HangMan/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HangMan/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HangMan/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HangMan/hangMan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HangMan/wordsFile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MadLibs/.ipynb_checkpoints/MadLibsProject-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MadLibs/MadLibsProject.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PasswordManager/key.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PasswordManager/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PasswordManager/password.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PongGame/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PongGame/.idea/PongGame.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PongGame/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PongGame/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PongGame/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PongGame/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PongGame/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PongGame/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SaveData/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCodes/CodeWarsQuestion1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCodes/CodeWarsQuestion2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCodes/CodeWarsQuestion3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebscrapingChatBot/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebscrapingChatBot/.idea/WebscrapingChatBot.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebscrapingChatBot/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebscrapingChatBot/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebscrapingChatBot/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebscrapingChatBot/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebscrapingChatBot/Design.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebscrapingChatBot/EbayDataSet.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebscrapingChatBot/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +79,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
   <component name="RunManager" selected="Python.main (3)">
     <configuration name="CodeWarsQuestion3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -176,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654491714718</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;Added the password manager project&quot;">
+      <created>1654505909871</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654505909871</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +236,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Added some Projects&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Added some Projects&quot;" />
+    <MESSAGE value="&quot;Added the password manager project&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Added the password manager project&quot;" />
   </component>
 </project>
