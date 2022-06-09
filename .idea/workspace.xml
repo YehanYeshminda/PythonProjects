@@ -181,11 +181,11 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
       <item itemvalue="Python.main (1)" />
       <item itemvalue="Python.main (2)" />
       <item itemvalue="Python.main (3)" />
       <item itemvalue="Python.main (4)" />
+      <item itemvalue="Python.main" />
       <item itemvalue="Python tests.Python tests in ShortestPathFinder" />
     </list>
     <recent_temporary>
