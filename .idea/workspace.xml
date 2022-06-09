@@ -1,45 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="89843c6f-db03-4fb2-8b5a-11832dcbb056" name="Changes" comment="&quot;Added the password manager project&quot;">
+    <list default="true" id="89843c6f-db03-4fb2-8b5a-11832dcbb056" name="Changes" comment="&quot;Changed directories&quot;">
+      <change afterPath="$PROJECT_DIR$/IntermediateProjects/ShortestPathFinder/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clock/clock.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HangMan/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HangMan/.idea/HangMan.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HangMan/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HangMan/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HangMan/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HangMan/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HangMan/hangMan.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HangMan/wordsFile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MadLibs/.ipynb_checkpoints/MadLibsProject-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MadLibs/MadLibsProject.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PasswordManager/key.key" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PasswordManager/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PasswordManager/password.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PongGame/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PongGame/.idea/PongGame.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PongGame/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PongGame/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PongGame/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PongGame/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PongGame/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PongGame/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SaveData/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCodes/CodeWarsQuestion1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCodes/CodeWarsQuestion2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestCodes/CodeWarsQuestion3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TodoApp/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebscrapingChatBot/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebscrapingChatBot/.idea/WebscrapingChatBot.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebscrapingChatBot/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebscrapingChatBot/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebscrapingChatBot/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebscrapingChatBot/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebscrapingChatBot/Design.drawio" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebscrapingChatBot/EbayDataSet.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebscrapingChatBot/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,55 +18,28 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="29xnRDv35jT4Z7zuYSawYXkJCEx" />
+  <component name="ProjectId" id="2AEZToWHmgR9KI97lvlki0Jd5Bt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
-  <component name="RunManager" selected="Python.main (3)">
-    <configuration name="CodeWarsQuestion3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonSelfLearnProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCodes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestCodes/CodeWarsQuestion3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.main">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonSelfLearnProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,6 +103,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntermediateProjects/ShortestPathFinder" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IntermediateProjects/ShortestPathFinder/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonSelfLearnProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntermediateProjects/ShortestPathFinder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IntermediateProjects/ShortestPathFinder/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonSelfLearnProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,38 +166,60 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in ShortestPathFinder" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonSelfLearnProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/IntermediateProjects/ShortestPathFinder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/IntermediateProjects/ShortestPathFinder&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.main (1)" />
+      <item itemvalue="Python.main (2)" />
+      <item itemvalue="Python.main (3)" />
+      <item itemvalue="Python.main (4)" />
+      <item itemvalue="Python tests.Python tests in ShortestPathFinder" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python tests.Python tests in ShortestPathFinder" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
-        <item itemvalue="Python.CodeWarsQuestion3" />
-        <item itemvalue="Python.main (1)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="89843c6f-db03-4fb2-8b5a-11832dcbb056" name="Changes" comment="" />
-      <created>1654063594823</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1654063594823</updated>
-    </task>
-    <task id="LOCAL-00001" summary="&quot;Added some Projects&quot;">
-      <created>1654491714718</created>
+    <task id="LOCAL-00001" summary="&quot;Added clock.py&quot;">
+      <created>1653537375691</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1654491714718</updated>
+      <updated>1653537375691</updated>
     </task>
-    <task id="LOCAL-00002" summary="&quot;Added the password manager project&quot;">
-      <created>1654505909871</created>
+    <task id="LOCAL-00002" summary="&quot;Added clock.py and some mudle files&quot;">
+      <created>1653537453150</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1654505909871</updated>
+      <updated>1653537453150</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89843c6f-db03-4fb2-8b5a-11832dcbb056" name="Changes" comment="&quot;Changed directories&quot;" />
+      <created>1654576719419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654576719419</updated>
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
@@ -235,8 +236,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&quot;Added some Projects&quot;" />
-    <MESSAGE value="&quot;Added the password manager project&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Added the password manager project&quot;" />
+    <MESSAGE value="&quot;Added clock.py&quot;" />
+    <MESSAGE value="&quot;Added clock.py and some mudle files&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Added clock.py and some mudle files&quot;" />
   </component>
 </project>
